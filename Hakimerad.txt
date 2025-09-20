@@ -1,0 +1,132 @@
+# Hakimerad Startup Landing Page Requirements
+
+## Company Overview
+Hakimerad is a modern comprehensive cloud-native healthcare platform startup that integrates Electronic Medical Records (EMR), Picture Archiving and Communication System (PACS), Radiology Information System (RIS), Telemedicine, and AI-assisted radiology workflow unified solution.providing innovative digital health tech solutions to help health care businesses thrive in the digital landscape. Founded in 2025, the company has grown from a small team to a dynamic organization serving clients across the country.
+
+## Target Audience
+- Small to medium-sized health care providers, All the tree tiers of goverment hospitals, speciality and diagnostic centers who are looking to modernize their Radiology services.
+- governmental and private health care practices who are looking to outsource their diagnostic services.
+- Both new and Established healthcare provides requiring digital transformation services
+
+## Value Proposition
+- No long-term commitments or subscription fees 
+- Speed and accuracy:-Guarantied reduction in turnaround time TAT starting from 60 minutes for stat cases.
+- Cutting-Edge technology:-cloud-native RIS/PACS is powered by AI to prioritize critical cases and enhance diagnostic accuracy
+- Access & Availability:- 24/7 availability enables clients with expert radiology reports anytime, anywhere, ensuring continuous patient care. 
+- Access to a network of sub-specialty trained radiologists for complex cases.
+
+## Brand Identity
+- **Colors**:cream "medical-grade," "secure," and "cutting-edge".
+  - Primary: #4a6bff (blue) - Represents trust, reliability, and professionalism
+  - Secondary: #ff6b6b (coral) - Adds warmth and approachability
+  - Dark: #333333 - For text and contrast
+  - Light: #f8f9fa - For backgrounds and contrast
+
+- **Typography**:
+  - Headings: Poppins (bold, modern, clean)
+  - Body: Roboto (readable, professional)
+
+- **Brand Voice**: Professional yet approachable, confident but not arrogant, reassuring, and innovative. You are a partner in patient care, not just a software vendor.technical but accessible
+
+## Website Requirements
+
+### General
+- Modern, clean design with ample white space
+- Mobile-first, fully responsive layout
+- Fast loading times (under 3 seconds)
+- Intuitive navigation
+- Consistent branding across all pages
+- Accessibility compliance (WCAG 2.1 AA)
+
+### Homepage
+- Compelling hero section with Full-width animated looped Video animation with subtle background and clear value proposition
+- Strong call-to-action buttons
+- Features/benefits section highlighting key services
+- Client testimonials and industry partners [logo place holders of partners] for social proof
+- Statistics or achievements section
+- Newsletter signup or lead capture form
+
+### Services Page
+- Comprehensive overview of all services
+- Clear categorization of service offerings
+- Detailed descriptions with benefits
+- Relevant case studies or examples
+- Service-specific CTAs
+  content: Service 1: Teleradiology Interpretation :- 24/7 Coverage, Board-Certified Radiologists, Preliminary & Final Reports, < 30 min Turnaround for Stat Cases. 
+	Service 2: AI-Powered RIS/PACS • Description:Cloud-Hosted (No Hardware Cost), AI-Powered Worklist Prioritization, DICOM Viewer, Integrated Reporting, Secure Data Storage.
+	Service 3: EHR Integration & Workflow Optimization: HL7/FHIR Integration, Customizable Workflows, Automated Notifications. 
+	Service 4: Specialty & Subspecialty Consultations:Neuroradiology, Musculoskeletal, Cardiothoracic, Body Imaging, Breast & Women imaging]
+
+### Pricing Page
+- Transparent pricing structure
+- Feature comparison between plans
+- FAQ section addressing common questions
+- Clear CTA for each pricing tier
+	content:• Description: Detail the subscription models (basic plan: per-case, after-hours, premioum). •
+
+### About Page
+- Company story and mission
+- Team member profiles with photos
+- Company values and culture
+- Timeline of company milestones
+	CONTENT: Our company story ◦ Hakimerad is a professional venture startup company founded in 2025 by Dr. Dawit, a practicing certified radiologist, to address the growing radiologist shortage impacting healthcare facilities nationwide. Our company is a teleradiology service provider that offers flexible outsourcing solutions for healthcare providers.
+	CONTENT:We specialize in interpreting and diagnosing medical images or cases submitted to us through our online platform. ◦ Mission statement: We are committed to revolutionizing radiology in Ethiopia by leveraging AI and expert radiologists to improve patient outcomes. ◦ Vision statement: To become the trusted teleradiology partner for every clinic and hospital in Ethiopia. B) Leadership team (placeholders) • photo place holder, Dr. Dawit Muluneh MD: Founder & CEO – Senior radiologist with expertise in radiology practice and passion for leveraging AI to improve healthcare access in Ethiopia. ◦ Photo place holder, Placeholder name : CTO – Technology leader with 15+ years in AI and healthtech innovation. • Photo place holder, place holder name : COO – Experienced operations strategist in healthcare and diagnostics.
+### Blog
+- Regular, valuable content updates
+- Categories for easy navigation
+- Search functionality
+- Social sharing options
+- Related posts suggestions
+
+### Contact Page
+- User-friendly contact form
+- Office location with map
+- Direct contact information
+- FAQ section
+- Support options
+	CPNTENT:asy access to contact info: ▪ Address icon: Map to the office Google map embed (Addis Ababa) ▪ phone icon: +251906373153 ▪ website icon: Https://www.Quantummed.com ▪ Email icon: hakimerad@Quantummed.com. ▪ Telegram icon : placeholder ▪ Facebook icon : placeholder ▪ Instagram icon : placeholde
+
+## Technical Requirements
+
+### Performance Optimization
+- Lazy loading for images and videos
+- Minified CSS and JavaScript
+- Optimized image formats (WebP with fallbacks)
+- Critical CSS for above-the-fold content
+- Browser caching implementation
+
+### SEO Requirements
+- Semantic HTML structure
+- Proper heading hierarchy
+- Meta tags optimization
+- Schema markup for rich snippets
+- XML sitemap
+- Robots.txt configuration
+
+### Analytics & Tracking
+- Google Analytics integration
+- Conversion tracking
+- Event tracking for key user interactions
+- Heat mapping capability
+- A/B testing readiness
+
+### Security
+- SSL certificate implementation
+- Form validation and sanitization
+- Protection against common vulnerabilities (XSS, CSRF)
+- Regular security updates
+
+## Conversion Optimization
+- Strategically placed CTAs
+- Social proof elements
+- Trust indicators (certifications, client logos)
+- Clear value proposition throughout
+- Minimal form fields to reduce friction
+- Persuasive copywriting
+
+## Future Considerations
+- CMS integration capability
+- Multilingual support
+- Dark mode toggle
+- Integration with marketing automation tools
+- Customer portal/dashboard
